@@ -11,7 +11,8 @@ In the terminal, run: python mood_food_journal.py
 
 ## Acknowledgments
 structural help and suggestions from ChatGPT, but all code written and understood by me.
-his is my final project for CS50 — it’s called Mood + Food Journal. I built it as a command-line app where people (or me, honestly) can track what they eat and how they feel. The whole idea came from this curiosity I’ve had about whether certain foods actually affect my mood. Like, do I always feel sluggish after eating a big lunch? Or more calm when I eat simple meals? That kind of thing.
+
+This is my final project for CS50 — it’s called Mood + Food Journal. I built it as a command-line app where people (or me, honestly) can track what they eat and how they feel. The whole idea came from this curiosity I’ve had about whether certain foods actually affect my mood. Like, do I always feel sluggish after eating a big lunch? Or more calm when I eat simple meals? That kind of thing.
 
 So this program lets you log meals and moods and check for patterns. It’s not fancy or scientific, but it gives you a way to look back and maybe notice connections. I wanted it to feel simple enough that I’d actually use it.
 
